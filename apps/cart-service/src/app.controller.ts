@@ -1,4 +1,4 @@
-//This is app controlle
+//This is app controller
 
 import { Controller, Get } from "@nestjs/common";
 import { ApiOkResponse, ApiTags } from "@nestjs/swagger";
