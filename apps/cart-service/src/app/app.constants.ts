@@ -1,3 +1,5 @@
+//This Component page is related to domain constants
+
 export const ENTITY_FOUND = "entity was found";
 export const NO_ENTITY_FOUND = "no entity was found";
 
