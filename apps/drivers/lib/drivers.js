@@ -1,4 +1,4 @@
-//This is a drivers libs
+//This is a drivers lib
 
 "use strict";
 
