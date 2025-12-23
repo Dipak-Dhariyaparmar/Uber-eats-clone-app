@@ -1,3 +1,6 @@
+//This component is related to category
+
+
 import React from 'react';
 import { categories } from '../../data/data.js';
 
