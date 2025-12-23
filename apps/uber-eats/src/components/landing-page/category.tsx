@@ -1,4 +1,4 @@
-//This component is related to categorys
+//This component is related to category
 
 
 import React from 'react';
